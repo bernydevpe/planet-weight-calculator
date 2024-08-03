@@ -34,7 +34,7 @@ La aplicación permite al usuario ingresar la masa de un objeto en kilogramos y 
 
 ## Autor
 
-Bernabé Jordán - [Tu GitHub]([https://github.com/tu-usuario](https://github.com/bernydevpe))
+Bernabé Jordán - [Mi GitHub](https://github.com/bernydevpe)
 
 ## Licencia
 
