@@ -36,7 +36,7 @@ La aplicación permite al usuario ingresar la masa de un objeto en kilogramos y 
 
 Bernabé Jordán - [Mi GitHub](https://github.com/bernydevpe)
 
-## Licencia
+## Web:
+[](https://bernydevpe.github.io/planet-weight-calculator/)
 
-Este proyecto está licenciado bajo la Licencia MIT - vea el archivo [LICENSE](LICENSE) para más detalles.
 
