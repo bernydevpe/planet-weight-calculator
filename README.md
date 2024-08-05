@@ -37,6 +37,6 @@ La aplicación permite al usuario ingresar la masa de un objeto en kilogramos y 
 Bernabé Jordán - [Mi GitHub](https://github.com/bernydevpe)
 
 ## Web:
-[](https://bernydevpe.github.io/planet-weight-calculator/)
+[web calculadora de peso](https://bernydevpe.github.io/planet-weight-calculator/)
 
 
